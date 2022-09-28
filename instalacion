@@ -1,0 +1,1 @@
+git clone --branch release-X.X-stable https://github.com/bugzilla/bugzilla C:\bugzilla
